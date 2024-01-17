@@ -1,0 +1,65 @@
+
+.header
+{
+    margin-top: 20%;
+}
+
+.borda 
+{
+    border: 1px solid #fff; 
+}
+
+td {
+    color: #fff;
+    background-color: #4a98e2;
+}
+
+body {
+    background: linear-gradient(to right, #3498db, #8e44ad);
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial', sans-serif;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+}
+
+.rodape
+{
+    background-color: blue;
+}
+.acimaInput
+{
+    display:contents;
+    
+}
+.box {
+    text-align:center;
+    font-size: 24px; 
+    width: 10%;
+    cursor: pointer;
+    padding: 3px 3px;
+}
+
+.box:hover {
+    background-color: blue;
+    transition: 1s;
+    box-shadow: 5px 5px 5px black;
+}
+
+.dark .pintar {
+    color: aquamarine;
+}
+
+
+.dark,
+td {
+    color: yellow;
+    background-color: #424147;
+}
+
+
+
+
